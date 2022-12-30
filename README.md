@@ -1,1 +1,1 @@
-# admin-dashboard
+Project Administrator Dashboard for the Odin Project
