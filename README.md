@@ -1,6 +1,7 @@
 Project Administrator Dashboard for the Odin Project
 
 Styling features worth noting:
+
     The buttons in the article cards change color when hoverd, I also intent to write a script so after they are clicked they will be the same as the accent color.
 
     The sidebar links hover the accent color
